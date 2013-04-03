@@ -1,15 +1,10 @@
 {
-  "name": "spinner-component2",
+  "name": "spinner-browserify",
   "description": "Flexible spinner using Canvas",
   "version": "0.1.0",
   "keywords": ["spinner", "loading", "ui"],
   "dependencies": {
     "autoscale-canvas": "*",
     "raf-component": "*"
-  },
-  "component": {
-    "scripts": {
-      "spinner/index.js": "index.js"
-    }
   }
 }
