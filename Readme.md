@@ -36,6 +36,10 @@ document.body.appendChild(spinner.el);
 
   Change the font size to `n`.
 
+### Spinner#text(value)
+
+  Set the text inside the spinner to `value`.
+
 ### Spinner#size(n)
 
   Change the indicator diameter to `n`, defaults to 50.
